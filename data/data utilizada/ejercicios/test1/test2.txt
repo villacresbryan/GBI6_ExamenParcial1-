@@ -1,0 +1,52 @@
+literal 1 
+$ pwd
+
+$git add 2021
+$git commit -m "TEXTO"
+$ git push 
+
+ literal 2
+
+$ mkdir test1
+
+$git add 2021
+$git commit -m "TEXTO"
+$ git push 
+
+literal 4
+$ touch test1.txt
+$ mv test1.txt test1 
+
+$git add 2021
+$git commit -m "TEXTO"
+$ git push 
+
+literal 5
+$ touch test2.txt 
+$ echo hola GBI6 > test.txt 
+$ mv test2.txt test1
+
+$git add 2021
+$git commit -m "TEXTO"
+$ git push 
+
+literal 6
+$ touch test1.py
+$ nano  ( una vez abierto nano se pone esto: print("Hola GBI6") )
+$ mv test1.py test1 
+
+$git add 2021
+$git commit -m "TEXTO"
+$ git push 
+
+
+
+
+lista1 = ["8.6", "18.0", "19.4", "13.7", "11.1", "10.1", "10.3", "15.6", "14.9", "9.1"]
+
+
+
+
+
+
+
